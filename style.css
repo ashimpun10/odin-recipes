@@ -1,0 +1,26 @@
+h1{
+    font-weight: bolder;
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+p{
+    font-size:x-large ;       
+}
+.cuisines
+{ 
+    background-color: green;
+    font-size: larger;
+    text-align: center;
+    color:white;
+}
+#ziti{
+    font-style:italic;
+}
+#pancake{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#soup{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
